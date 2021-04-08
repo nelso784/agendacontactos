@@ -17,7 +17,7 @@
         <span class="fas fa-house-user"></span> Inicio <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="categorias.php">
+        <a class="nav-link" href="contactos.php">
           <span class="fas fa-id-card-alt"></span>Contactos</a>
       </li>
      

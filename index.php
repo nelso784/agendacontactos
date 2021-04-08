@@ -10,6 +10,50 @@
 <body>
 	  <div class="container">
 	  	<?php require_once "menu.php"; ?>
+	  	<div class="jumbotron">
+	  		<h1 class="display-4">Agenda  de contactos con PHP Y Mysql</h1>
+	  		
+	  		<div class="row">
+	  			 <div class="col-sm-6">
+	  			 	<div class="card">
+	  			 		<div class="card-body">
+	  			 			<img src="public/img/foto.png" class="img-fluid" alt="Responsive image">
+	  			 		</div>
+	  			 	</div>
+	  			 </div>
+	  			 <div class="col-sm-6">
+	  			 	<div class="card">
+	  			 		<div class="card-body">
+	  			 		   <table class="table table-hover">
+	  			 		   	  <tr>
+	  			 		   	  	<th>
+	  			 		   	  		Agenda de contactos
+	  			 		   	  	</th>
+	  			 		   	  </tr>
+	  			 		   	  <tr>
+	  			 		   	  	<th>
+	  			 		   	  		Hecha por Antony 
+	  			 		   	  	</th>
+	  			 		   	  </tr>
+                                <tr>
+                                	<th>
+                                		Hecha en  php y mysql
+                                	</th>
+                                </tr>
+	  			 		   </table>	
+	  			 		</div>
+	  			 	</div>
+	  			 </div>
+
+	  		</div>
+
+	  		<hr class="my-4">
+	  		<p>
+	  			Agenda de contactos con php y mysql
+	  			Creda por Antony Nelson 
+	  		</p>
+	  		
+	  	</div>
 	  </div>
 
 
