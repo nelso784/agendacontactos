@@ -12,7 +12,7 @@
 	  	<?php require_once "menu.php"; ?>
 	  	<div class="jumbotron">
 	  		<h1 class="display-4">Contactos</h1>
-	  		<button class="btn btn-primary">
+	  		<button class="btn btn-primary" data-toggle="modal" data-target="#modalAgregarContacto">
 	  		  <span class="fas fa-user-plus"></span>	Agregar Contacto
 	  		</button>
 	  		<hr class="my-4">
@@ -21,6 +21,11 @@
 	  		  </div>
 	  		
 	  	</div>
+
+	  	<?php 
+              require_once "vistas/contactos/modalAgregar.php";
+              require_once  "vistas/contactos/modalActualizar.php"
+	  	?>
 	  </div>
 
 
